@@ -1,3 +1,5 @@
+package Assignment4;
+
 import java.util.Scanner;   // Here Scanner class is imported to get input from the user
 
 /**
